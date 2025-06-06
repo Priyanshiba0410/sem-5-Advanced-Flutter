@@ -1,0 +1,1 @@
+const String APPBAR_CONTROLLER_VIEW_TITLE = 'controller view';
